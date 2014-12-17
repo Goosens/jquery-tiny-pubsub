@@ -1,6 +1,6 @@
-/*! Tiny Pub/Sub - v0.7.0 - 2013-01-29
+/*! Tiny Pub/Sub - v0.7.0 - 2014-12-17
 * https://github.com/cowboy/jquery-tiny-pubsub
-* Copyright (c) 2013 "Cowboy" Ben Alman; Licensed MIT */
+* Copyright (c) 2014 "Cowboy" Ben Alman; Licensed MIT */
 (function($) {
 
   var o = $({});
@@ -17,4 +17,4 @@
     o.trigger.apply(o, arguments);
   };
 
-}(jQuery));
+}(Zepto));

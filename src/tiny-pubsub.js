@@ -1,5 +1,5 @@
 /*
- * jQuery Tiny Pub/Sub
+ * Zepto Tiny Pub/Sub
  * https://github.com/cowboy/jquery-tiny-pubsub
  *
  * Copyright (c) 2013 "Cowboy" Ben Alman
@@ -22,4 +22,4 @@
     o.trigger.apply(o, arguments);
   };
 
-}(jQuery));
+}(Zepto));
